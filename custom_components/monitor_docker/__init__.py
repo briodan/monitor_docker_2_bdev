@@ -5,7 +5,7 @@ import logging
 from datetime import timedelta
 
 # import homeassistant.helpers.config_validation as cv
-# import voluptuous as vol
+import voluptuous as vol
 # from homeassistant.const import (
 #     CONF_MONITORED_CONDITIONS,
 #     CONF_NAME,
