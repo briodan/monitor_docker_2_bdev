@@ -11,6 +11,8 @@ DOMAIN = "monitor_docker"
 API = "api"
 CONFIG = "config"
 CONTAINER = "container"
+CONF_NAME = "name"
+CONF_RETRY = "retry"
 
 CONF_CERTPATH = "certpath"
 CONF_CONTAINERS = "containers"
